@@ -3,9 +3,9 @@
 Codes for 2020 IGARSS NEURAL NETWORK PRUNING FOR HYPERSPECTRAL IMAGE BAND SELECTION 
 
 ## Requirement
-*Python >= 3.6
+* Python >= 3.6
   *'python3 --version'
-*PyTorch >= 1.3
+* PyTorch >= 1.3
   *'pip install torch torchvision'
 
 ## Hyperspectral data can be downloaded from the following address
