@@ -1,5 +1,5 @@
 # Network-pruning-for-HSI-band-selection
-===
+
 Codes for 2020 IGARSS paper NEURAL NETWORK PRUNING FOR HYPERSPECTRAL IMAGE BAND SELECTION 
 
 ## Requirement
